@@ -21,6 +21,7 @@ This project is an E-Commerce website inspired by Shopify, where users can brows
 
 
 ### ScreenShots
+![image alt](https://github.com/Shivam-Jaiswal-bot/React-Final-Term-Project/blob/886e4e0eb8bf9582ff4df067434164f95355d7c5/Image1.png)
 
 ### Clone the repository
 ```bash
