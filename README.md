@@ -19,14 +19,15 @@ This project is an E-Commerce website inspired by Shopify, where users can brows
 - **Authentication**: JWT (JSON Web Tokens)
 - **Hosting**: GITHUB(Frontend)
 
-
-### ScreenShots
-![image alt](https://github.com/Shivam-Jaiswal-bot/React-Final-Term-Project/blob/886e4e0eb8bf9582ff4df067434164f95355d7c5/Image1.png)
-
 ### Clone the repository
 ```bash
 git clone https://github.com/Shivam-Jaiswal-bot/React-Final-Term-Project.git
+```
 
+
+### ScreenShots
+![image alt](https://github.com/Shivam-Jaiswal-bot/React-Final-Term-Project/blob/886e4e0eb8bf9582ff4df067434164f95355d7c5/Image1.png)
+![image alt](https://github.com/Shivam-Jaiswal-bot/React-Final-Term-Project/blob/8ac99900e78bbc5306a2af434705d03ed4d8606b/Image2.png)
 
 
 
